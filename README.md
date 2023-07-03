@@ -57,4 +57,6 @@ Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
 </div>
 
 ## Mis estadísticas
-![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=Echeverria29&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echeverria29&layout=compact)
