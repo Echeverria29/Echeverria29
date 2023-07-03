@@ -14,7 +14,7 @@ Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
         src="https://img.shields.io/badge/Sigueme-%40Orlando Echeverria Hernandez-%231877F2.svg?style=social&logo=facebook"
         alt="follow on Facebook">
     </a>
-    <a href="https://www.linkedin.com/in/tu_nombre_de_usuario/">
+    <a href="https://www.linkedin.com/in/orlando-andres-echeverría-hernández-670613274/">
       <img
         src="https://img.shields.io/badge/En linea-%40Orlando Echeverria Hernandez-%230077B5.svg?style=social&logo=linkedin"
         alt="connect on LinkedIn">
