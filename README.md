@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h1 align="center">Hola, soy un futuro ingeniero en informática muy apasionado con la carrera. Me fascina todo lo
-    relacionado con full stack development y bases de datos SQL y NoSQL.</h1>
+  <h4 align="center">Futuro ingeniero informático apasionado por el full stack development y bases de datos SQL/NoSQL.
+Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h4>
 </div>
 <div id="badges" align="center">
   <div align="center">
@@ -25,13 +25,15 @@
 ---
 ### sobre mi:
 
-- 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando Django, Python, Java, Oracle SQL y MySQL.
+- 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando Django, Python, Java, bootstrap, Oracle SQL y MySQL.
 - 📅 Actualmente estoy aprendiendo JavaScript y luego iniciaré el curso de React.js.
 - 👯 Estoy buscando colaborar en compañías de desarrollo web en puestos de Full Stack o desarrollo Backend.
 - 💬 Pregúntame sobre Django, Python, Java, Oracle SQL y MySQL.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
+
+  
 <div align="left">
-  <h3⚙⚙ Lenguajes de programación y bases de datos:</h3>
+  <h3>⚙Lenguajes de programación y complementos:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="display:inline-block" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" style="display:inline-block" />
@@ -45,8 +47,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
   
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
 </div>
