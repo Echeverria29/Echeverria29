@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h4 align="center">Futuro ingeniero informático apasionado por el full stack development y bases de datos SQL/NoSQL.
-Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h4>
+  <h3 align="center">Futuro ingeniero informático apasionado por el full stack development y bases de datos SQL/NoSQL.
+Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
@@ -33,7 +33,7 @@ Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h4>
 
   
 <div align="left">
-  <h3>⚙Lenguajes de programación y complementos:</h3>
+  <h3>⚙Lenguajes de programación y herramientas:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="display:inline-block" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" style="display:inline-block" />
@@ -56,3 +56,5 @@ Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
 </div>
 
+## Mis estadísticas
+![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
