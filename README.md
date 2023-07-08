@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Futuro ingeniero informático apasionado por el full stack development y bases de datos SQL/NoSQL.
+  <h3 align="center">Futuro ingeniero informático apasionado por el el desarrollo web full stack y bases de datos SQL/NoSQL.
 Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
 </div>
 <div id="badges" align="center">
@@ -27,7 +27,7 @@ Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
 
 - 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando Django, Python, Java, bootstrap, Oracle SQL y MySQL.
 - 📅 Actualmente estoy aprendiendo JavaScript y luego iniciaré el curso de React.js.
-- 👯 Estoy buscando colaborar en compañías de desarrollo web en puestos de Full Stack o desarrollo Backend.
+- 👯 Estoy buscando colaborar en compañías de desarrollo web en puestos de Full Stack o desarrollo Front End.
 - 💬 Pregúntame sobre Django, Python, Java, Oracle SQL y MySQL.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
