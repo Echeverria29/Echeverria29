@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Futuro ingeniero informático apasionado por el el desarrollo web full stack y bases de datos SQL/NoSQL.
+  <h3 align="center">Futuro ingeniero informático apasionado por el el desarrollo web full stack y consultas de bases de datos SQL/NoSQL.
 Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
 </div>
 <div id="badges" align="center">
