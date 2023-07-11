@@ -27,7 +27,7 @@ Buscando oportunidades para crecer y colaborar en proyectos innovadores.</h3>
 
 - 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando Django, Python, Java, bootstrap, Oracle SQL y MySQL.
 - 📅 Actualmente estoy aprendiendo JavaScript y luego iniciaré el curso de React.js.
-- 👯 Estoy buscando colaborar en compañías de desarrollo web en puestos de Full Stack o desarrollo Front End.
+- 👯 Estoy buscando colaborar en compañías de desarrollo web en el puesto de Full Stack o alguna compañía que necesite Data Engineer..
 - 💬 Pregúntame sobre Django, Python, Java, Oracle SQL y MySQL.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
