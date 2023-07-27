@@ -25,7 +25,7 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 ---
 ### sobre mi:
 
-- 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando Django, Python, Java, bootstrap, Oracle SQL y MySQL.
+- 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando React(MERN), Django, Python, Java, bootstrap.
 - 📅 Actualmente estoy aprendiendo JavaScript y React.js.
 - 👯 Estoy buscando colaborar en compañías de desarrollo web en el puesto de Full Stack o front end.
 - 💬 Pregúntame sobre Django, Python, Java, Oracle SQL y MySQL.
