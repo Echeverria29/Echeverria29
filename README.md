@@ -26,9 +26,8 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 ### sobre mi:
 
 - 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando React(MERN), Django y bootstrap.
-- 📅 Actualmente estoy aprendiendo JavaScript y React.js.
+- 📅 Actualmente estoy aprendiendo JavaScript y React(MERN).
 - 👯 Estoy buscando colaborar en compañías de desarrollo web en el puesto de Full Stack o front end.
-- 💬 Pregúntame sobre React(MERN), Django y MySQL.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
   
