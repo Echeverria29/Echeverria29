@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Futuro ingeniero informático apasionado por el el desarrollo web full stack o Front end.
+  <h3 align="center">Futuro ingeniero informático apasionado por el el desarrollo web front con conocimientos generales full stack.
 Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 </div>
 <div id="badges" align="center">
