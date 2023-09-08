@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Futuro ingeniero informático con conocimientos generales de bases de datos SQL y No SQL.
+  <h3 align="center">Futuro ingeniero informático con conocimientos generales de bases de datos SQL, Data warehouse, ETL y modelamiento.
 Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 </div>
 <div id="badges" align="center">
@@ -25,9 +25,9 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 ---
 ### sobre mi:
 
-- 🥇 Actualmente estoy terminando mi carrera de ingenieria en informatica, trabajando en proyectos utilizando React(MERN), Django y bootstrap.
-- 📅 Actualmente estoy aprendiendo JavaScript y React(MERN).
-- 👯 Estoy buscando colaborar en compañías de desarrollo web en el puesto de front end o full Stack.
+- 🥇 Actualmente estoyen mi tercer año de ingenieria en informatica, trabajando en proyectos con SQL Server, ETL y analisis con Powe BI.
+- 📅 Actualmente estoy aprendiendo Procesos ETL.
+- 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o similares.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
   
