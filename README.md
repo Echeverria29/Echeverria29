@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
   <h3 align="center">Futuro ingeniero informático con conocimientos generales de bases de datos SQL, Data warehouse, ETL y modelamiento.
-    Experiencia en desarrollo web en python(django) con My SQL, creando dos paginas para Consultores C&C y proyectos academicos.
+    Experiencia en desarrollo web en Python(Django) con MySQL, creando dos páginas para Consultores C&C y proyectos académicos.
 Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 </div>
 <div id="badges" align="center">
