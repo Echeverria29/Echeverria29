@@ -26,7 +26,7 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 ---
 ### sobre mi:
 
-- 🥇 Actualmente estoyen mi ultimo año de ingenieria en informatica.
+- 🥇 Actualmente estoyen mi ultimo año de ingenieria en informatica en Duoc UC puente alto.
 - 📅 Actualmente estoy realizando mi practica en C&C Consultores https://consultorescyc.cl
 - 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o desarrollador full stack junior.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
