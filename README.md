@@ -26,9 +26,9 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 ---
 ### sobre mi:
 
-- 🥇 Actualmente estoyen mi tercer año de ingenieria en informatica, trabajando en proyectos con SQL Server, ETL y analisis con Powe BI.
-- 📅 Actualmente estoy aprendiendo Procesos ETL.
-- 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o similares.
+- 🥇 Actualmente estoyen mi ultimo año de ingenieria en informatica.
+- 📅 Actualmente estoy realizando mi practica en C&C Consultores.
+- 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o desarrollador full stack junior.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
   
