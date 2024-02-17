@@ -28,7 +28,7 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 
 - 🥇 Actualmente estoyen mi ultimo año de ingenieria en informatica en Duoc UC puente alto.
 - 📅 Realize mi primera practica en C&C Consultores https://consultorescyc.cl 26/12/2023-25/01/2024
-- 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o desarrollador full stack junior.
+- 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o desarrollador full stack trainee.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
   
