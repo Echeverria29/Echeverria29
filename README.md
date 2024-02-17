@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
   <h3 align="center">Futuro ingeniero informático con conocimientos generales de bases de datos SQL, Data warehouse, ETL y modelamiento.
-    Experiencia en desarrollo web en Python(Django) con MySQL, creando dos páginas para Consultores C&C y proyectos académicos.
+    Experiencia en desarrollo web en Python(Django) con MySQL, creción de página web para Consultores C&C más proyectos académicos.
 Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 </div>
 <div id="badges" align="center">
@@ -27,7 +27,7 @@ Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 ### sobre mi:
 
 - 🥇 Actualmente estoyen mi ultimo año de ingenieria en informatica en Duoc UC puente alto.
-- 📅 Actualmente estoy realizando mi practica en C&C Consultores https://consultorescyc.cl
+- 📅 Realize mi primera practica en C&C Consultores https://consultorescyc.cl 26/12/2023-25/01/2024
 - 👯 Estoy buscando colaborar en compañías que necesiten ingenieros de datos Trainee o desarrollador full stack junior.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 
