@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Futuro ingeniero informático con conocimientos generales de bases de datos SQL, Data warehouse, ETL y modelamiento.
+  <h3 align="center">Me encuentro cursando mi último año de ingeniería en informática en Duoc UC, con conocimientos generales de bases de datos SQL, Data warehouse, ETL y modelamiento.
     Experiencia en desarrollo web en Python(Django) con MySQL, creción de página web para Consultores C&C más proyectos académicos.
 Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
 </div>
