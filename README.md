@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Me encuentro cursando mi último año de ingeniería en informática en Duoc UC, con conocimientos generales de bases de datos SQL, Data warehouse, ETL y modelamiento.
-    Experiencia en soporte TI y desarrollo web en Python(Django) con MySQL en Consultores C&C más proyectos académicos.
-Buscando oportunidades para crecer laboralmente en esta hermosa carrera.</h3>
+  <h3 align="center">Estoy cursando mi último año en Duoc UC. Poseo conocimientos generales en: Bases de datos MySQL y SQL Server, Data Warehouse, procesos ETL con SSIS y Desarrollo web.Cuento con experiencia en soporte TI más la creación de una página web en Consultores C&C. tengo diversos proyectos académicos que podre mostrar en este sitio personal. Estoy buscando oportunidades para crecer profesionalmente en esta hermosa carrera</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
