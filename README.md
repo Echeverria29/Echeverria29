@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Estoy cursando mi último año en Duoc UC. Poseo conocimientos generales en: Google Cloud, Bases de datos MySQL y SQL Server, Data Warehouse, procesos ETL con SSIS y Desarrollo web.Cuento con experiencia en soporte TI. tengo diversos proyectos académicos que podre mostrar en este sitio personal. Estoy buscando oportunidades para crecer profesionalmente en esta hermosa carrera</h3>
+  <h3 align="center">Estoy cursando mi último año en Duoc UC. Poseo conocimientos generales en: Google Cloud, Bases de datos MySQL y SQL Server, Data Warehouse, procesos ETL con SSIS y python.Cuento con experiencia en soporte TI. tengo diversos proyectos académicos que podre mostrar en este sitio personal. Estoy buscando oportunidades para crecer profesionalmente en esta hermosa carrera</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
