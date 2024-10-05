@@ -25,7 +25,7 @@ Platform: Cloud storage, Data Flow y Big Query. También en Amazon web services:
 ---
 ### sobre mi:
 
-- 🥇 Actualmente estoyen mi ultimo año de ingenieria en informatica en Duoc UC puente alto.
+- 🥇 Actualmente cursando mi ultimo año de ingenieria en informatica en Duoc UC y realizando mi practica profesional en platwave technologies Spa https://www.linkedin.com/company/platwave/posts/?feedView=all.
 - 📅 Realize mi primera practica de soporte TI en C&C Consultores https://consultorescyc.cl 26/12/2023-25/01/2024
 - 👯 Estoy buscando colaborar en compañías que necesiten ingenieros en informática o analistas.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
