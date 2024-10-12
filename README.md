@@ -19,18 +19,22 @@
 - 📅 Realize mi primera practica de soporte TI en C&C Consultores https://consultorescyc.cl 26/12/2023-25/01/2024
 - 👯 Estoy buscando colaborar en compañías que necesiten ingeniero de datos.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
-
+<div align="left">
+  <h3>⚙Cloud computing:</h3>
+  
+  
+</div>
   
 <div align="left">
   <h3>⚙Lenguajes de programación y herramientas:</h3>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="GitHub" width="40" height="40" style="display:inline-block" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="display:inline-block" />
+
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="display:inline-block" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" style="display:inline-block" />
+ 
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
 </div>
