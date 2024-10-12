@@ -4,15 +4,6 @@
 </div>
 <div id="badges" align="center">
   <div align="center">
-    <a href="https://www.instagram.com/ing_informatico_2025/">
-      <img src="https://img.shields.io/badge/Sigueme-%40ing_informatico_2025-%23E4405F.svg?style=social&logo=instagram"
-        alt="follow on Instagram">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100005248157303">
-      <img
-        src="https://img.shields.io/badge/Sigueme-%40Orlando Echeverria Hernandez-%231877F2.svg?style=social&logo=facebook"
-        alt="follow on Facebook">
-    </a>
     <a href="https://www.linkedin.com/in/orlando-andres-echeverría-hernández-670613274/">
       <img
         src="https://img.shields.io/badge/En linea-%40Orlando Echeverria Hernandez-%230077B5.svg?style=social&logo=linkedin"
