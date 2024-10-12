@@ -36,6 +36,25 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
 </div>
 
+<div align="left">
+  <h3>⚙Librerias:</h3>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+</div>
+
+<div align="left">
+  <h3>⚙Sistema de control de versiones:</h3>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  
+</div>
+
 ## Mis estadísticas
 ![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=Echeverria29&show_icons=true&theme=radical)
 
