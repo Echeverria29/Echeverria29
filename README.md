@@ -22,8 +22,8 @@
 <div align="left">
   <h3>⚙Cloud computing:</h3>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Python" alt="GitHub" width="40" height="40" style="display:inline-block" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Python" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Python" alt="GitHub" width="60" height="60" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Python" alt="GitHub" width="60" height="60" style="display:inline-block" />
 </div>
   
 <div align="left">
