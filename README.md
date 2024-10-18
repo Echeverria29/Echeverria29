@@ -38,9 +38,9 @@
 <div align="left">
   <h3>⚙Librerias:</h3>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
 
