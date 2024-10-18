@@ -29,7 +29,7 @@
 <div align="left">
   <h3>⚙Lenguajes de programación:</h3>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="GitHub" width="60" height="60" style="display:inline-block" />
 
   
 
@@ -38,18 +38,18 @@
 <div align="left">
   <h3>⚙Librerias:</h3>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50" style="display:inline-block" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
 </div>
 <div align="left">
   
   <h3>⚙Frameworks:</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
   
 
   
