@@ -48,7 +48,7 @@
 </div>
 <div align="left">
   
-  <h3>⚙Procesamiento de datos distribuido:</h3>
+  <h3>⚙Frameworks:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="display:inline-block" />
   
 
