@@ -14,8 +14,8 @@
 
 ---
 ### sobre mi:
-
-- 🥇 Actualmente cursando mi ultimo año de ingenieria en informatica en Duoc UC y realizando mi practica profesional en platwave technologies Spa https://www.linkedin.com/company/platwave/posts/?feedView=all.
+- 🥇 Actualmente me encuentro trabajando en platwave technologies, trabajo con todo lo que tenga relación con inteligencia artificial.
+- 📅 Ingeniero en informatica de Duoc UC y realize mi practica profesional en platwave technologies Spa https://www.linkedin.com/company/platwave/posts/?feedView=all.
 - 📅 Realize mi primera practica de soporte TI en C&C Consultores https://consultorescyc.cl 26/12/2023-25/01/2024
 - 👯 Estoy buscando colaborar en compañías que necesiten ingeniero de datos.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
