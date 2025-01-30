@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Ingeniero en informatica, con experiencia en ingeniería de datos, utilizando herramientas de Google Cloud y Amazon Web Services. He trabajado en el almacenamiento, procesamiento y análisis de datos, implementando procesos ETL y empleando Python con Pandas. Además, tengo experiencia en PySpark para la transformación de grandes volúmenes de datos y en SageMaker para para entrenar y desplegar modelos de machine learning. Busco oportunidades para aplicar y expandir mis habilidades en un entorno profesional mientras continúo aprendiendo en esta apasionante área.</h3>
+  <h3 align="center">Soy Ingeniero en Informática, me apasiona el mundo de los datos, he tenido la oportunidad de trabajar con herramientas de procesamiento y almacenamiento en la nube en mi práctica profesional como ingeniero de datos junior y un semestre completo académico. He trabajado en entornos de AWS (S3, Amazon Glue) y Además GCP (Cloud Storage, Cloud functions, Dataflow y Big Query).</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
