@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Soy Ingeniero en Informática, me apasiona el mundo de los datos, he tenido la oportunidad de trabajar con herramientas de procesamiento y almacenamiento en la nube en mi práctica profesional como ingeniero de datos junior y un semestre completo académico. He trabajado en entornos de AWS (S3, Amazon Glue) y Además GCP (Cloud Storage, Cloud functions, Dataflow y Big Query).</h3>
+  <h3 align="center">Soy Ingeniero en Informática con experiencia en el desarrollo de proyectos de datos en la nube. He implementado procesos ETL en tiempo real con Pub/Sub y Dataflow, y por lotes utilizando Cloud Functions. Trabajo con Cloud Storage para almacenamiento, BigQuery para análisis y carga de datos, y Airflow para orquestar flujos de trabajo. Además, tengo experiencia desplegando proyectos con Docker. Mi formación incluye una práctica profesional como ingeniero de datos junior, un semestre académico especializado en tecnologías de datos en la nube y el desarrollo constante de proyectos personales para reforzar mis conocimientos y habilidades..</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
