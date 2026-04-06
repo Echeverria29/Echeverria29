@@ -19,8 +19,6 @@
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 <div align="left">
   <h3>⚙Cloud computing:</h3>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Python" alt="GitHub" width="80" height="80" style="display:inline-block" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Python" alt="GitHub" width="80" height="80" style="display:inline-block" />
 </div>
   
@@ -60,9 +58,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
   
 </div>
-
-## Mis estadísticas
-![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=Echeverria29&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echeverria29&size_weight=0.5&count_weight=0.5)
 
