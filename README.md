@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Soy Ingeniero en Informática con experiencia como data engineer por 2 años. He implementado procesos ETL en tiempo real con Pub/Sub y Dataflow, y tambien procesamiento de datos batch. Trabajo con Cloud Storage para almacenamiento, BigQuery carga de datos y looker para su analisis. El orquestador principal a utilizar es composer(Airflow). Además, tengo experiencia desplegando proyectos con Docker.</h3>
+  <h3 align="center">Soy Ingeniero en Informática con experiencia como data engineer por 2 años. He implementado procesos ETL en tiempo real con Pub/Sub y Apache Beam, y tambien procesamiento de datos batch con Dataflow. Trabajo con Cloud Storage para almacenamiento, BigQuery carga de datos y looker para su analisis. El orquestador principal a utilizar es composer(Airflow). Además, tengo experiencia desplegando proyectos con Docker.</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
