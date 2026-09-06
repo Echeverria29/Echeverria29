@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
-  <h3 align="center">Google Professional Data Engineer certificado, especializado en el diseño e implementación de arquitecturas de datos End-to-End en GCP. Experto en la construcción de ecosistemas bajo el paradigma Medallion (Bronze, Silver, Gold), optimizando el procesamiento y orquestación de datos mediante Cloud Composer (Managed Airflow) y BigQuery. Cuento con experiencia sólida en ingesta masiva desde Oracle/SQL Server, automatización de calidad con Dataplex y procesamiento en tiempo real con Pub/Sub y Dataflow, garantizando soluciones escalables y seguras mediante la contenerización con Docker.</h3>
+  <h3 align="center">Google Professional Data Engineer certificado, especializado en el diseño e implementación de arquitecturas de datos End-to-End en GCP. Experto en la construcción de ecosistemas bajo el paradigma Medallion (Bronze, Silver, Gold), optimizando el procesamiento y orquestación de datos mediante Managed Airflow y BigQuery. Cuento con experiencia sólida en ingesta masiva desde Oracle/SQL Server, automatización de calidad con Knowledge Catalog (Data Quality) y procesamiento en tiempo real con Pub/Sub y Dataflow, garantizando soluciones escalables y seguras mediante la contenerización con Docker.</h3>
 </div>
 <div id="badges" align="center">
   <div align="center">
