@@ -14,7 +14,7 @@
 
 ---
 ### sobre mi:
-- 🥇 Actualmente me encuentro trabajando en Turin Gears (TG) como data engineer.
+- 🥇Profesional Data Engineer GCP.
 - 📅 Ingeniero en informática de Duoc UC.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 <div align="left">
