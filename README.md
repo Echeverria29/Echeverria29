@@ -18,39 +18,29 @@
 - 📅 Ingeniero en informática de Duoc UC.
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 <div align="left">
-  <h3>⚙Cloud computing:</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Python" alt="GitHub" width="80" height="80" style="display:inline-block" />
+  <h3>⚙ Cloud computing & DevOps:</h3>
+  <img src="icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="GCP" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
+  <img src="icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="80" height="80" style="display:inline-block" />
 </div>
   
 <div align="left">
-  <h3>⚙Lenguajes de programación:</h3>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="GitHub" width="80" height="80" style="display:inline-block" />
-
-  
-
+  <h3>⚙ Lenguajes de programación:</h3>
+  <img src="icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80" style="display:inline-block" />
 </div>
 
 <div align="left">
-  <h3>⚙Librerias:</h3>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="display:inline-block" />
-  
-</div>
-<div align="left">
-  
-  <h3>⚙Frameworks:</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
-  
-
-  
-
+  <h3>⚙ Librerias:</h3>
+  <img src="icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60" style="display:inline-block" />
 </div>
 
 <div align="left">
-  <h3>⚙Sistema de control de versiones:</h3>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
-  
+  <h3>⚙ Frameworks & Orquestación:</h3>
+  <img src="[AQUÍ VA UN ENLACE]" title="Apache Beam" alt="Apache Beam" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
+  <img src="icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" alt="Apache Airflow" width="80" height="80" style="display:inline-block" />
 </div>
 
+<div align="left">
+  <h3>⚙ Sistema de control de versiones & CI/CD:</h3>
+  <img src="icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
+  <img src="icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
+</div>
