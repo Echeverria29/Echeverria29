@@ -25,22 +25,22 @@
   
 <div align="left">
   <h3>⚙ Lenguajes de programación:</h3>
-  <img src="icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80" style="display:inline-block" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80" style="display:inline-block" />
 </div>
 
 <div align="left">
   <h3>⚙ Librerias:</h3>
-  <img src="icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60" style="display:inline-block" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-line-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60" style="display:inline-block" />
 </div>
 
 <div align="left">
   <h3>⚙ Frameworks & Orquestación:</h3>
-  <img src="[AQUÍ VA UN ENLACE]" title="Apache Beam" alt="Apache Beam" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
-  <img src="icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" alt="Apache Airflow" width="80" height="80" style="display:inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Apache_Beam_logo_%283_color%2C_wordmark_right%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" title="Apache Beam" alt="Apache Beam" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" alt="Apache Airflow" width="80" height="80" style="display:inline-block" />
 </div>
 
 <div align="left">
   <h3>⚙ Sistema de control de versiones & CI/CD:</h3>
-  <img src="icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
-  <img src="icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="80" height="80" style="display:inline-block" />
 </div>
