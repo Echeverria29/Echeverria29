@@ -19,8 +19,8 @@
 - 📫 Cómo contactarme: or.echeverria@duocuc.cl
 <div align="left">
   <h3>⚙ Cloud computing & DevOps:</h3>
-  <img src="icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="GCP" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
-  <img src="icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="80" height="80" style="display:inline-block" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/google/google-original-wordmark.svg" title="Google Cloud" alt="GCP" width="80" height="80" style="display:inline-block; margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="80" height="80" style="display:inline-block" />
 </div>
   
 <div align="left">
